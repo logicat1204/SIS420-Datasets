@@ -1,0 +1,15 @@
+Ejercicio 1 
+Ames Housing
+El dataset es ideal para realizar una regression lineal multiple por que tiene una
+variable que podemos predecir la cual es SalePrice en base a las demas variables que
+incluyen datos sobre como esta valuadas las viviendas y tiene 82 columnas adicionales, no
+elimine ninguna columna solo transforme las categoricas a numericas para poder realizar
+mas calificaciones y que el modelo sea mas preciso.
+Para la resolucion implemente un modelo de redes neuronales para regression lineal usando
+Sequential de Torch y usando ReLU la cual sirve para regresiones.
+
+
+Ejercicio 6
+El dataset contiene informacion anonima para predecir si un prestamo de credito sera aprobado o no
+para este tipo de dataset el modelo que elegi fue el de clasificacion binaria ya que 
+en el dataset hay una clase la cual es la que contiene cuales fueron los prestamos aprobados y reprobados
